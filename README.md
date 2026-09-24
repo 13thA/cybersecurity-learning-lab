@@ -13,12 +13,7 @@ My hands-on cybersecurity learning journey.
 - SOC
 - Threat Intelligence
 - Technical English
-- TryHackMe Labs
 - Security Tools
-
-## Current Focus
-
-Linux → Networking → SOC L1 → Threat Intelligence
 
 ## Repository Structure
 
